@@ -5,4 +5,5 @@
 
 ***
 [Acknowledgements](https://github.com/reginahongcy/loyola-150-timeline-project/wiki/Acknowledgements)
+
 [Workflow and Metadata Entry Guidelines](https://github.com/reginahongcy/loyola-150-timeline-project/wiki/Workflow-and-Metadata-Entry-Guidelines)
