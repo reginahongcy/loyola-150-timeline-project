@@ -4,6 +4,7 @@
 *The project was created using [Omeka S](https://omeka.org/s/), a content management site, and [TimelineJS](https://timeline.knightlab.com/), an open-source tool for creating timelines created by the Knight Lab at Northwestern University.*
 
 ***
+## Project Links
 [Acknowledgements](https://github.com/reginahongcy/loyola-150-timeline-project/wiki/Acknowledgements)
 
 [Workflow and Metadata Entry Guidelines](https://github.com/reginahongcy/loyola-150-timeline-project/wiki/Workflow-and-Metadata-Entry-Guidelines)
