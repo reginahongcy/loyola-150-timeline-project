@@ -5,6 +5,8 @@
 
 ***
 ## Project Links
+[Project Team](https://github.com/reginahongcy/loyola-150-timeline-project/wiki/Project-Team)
+
 [Workflow and Metadata Entry Guidelines](https://github.com/reginahongcy/loyola-150-timeline-project/wiki/Workflow-and-Metadata-Entry-Guidelines)
 
 [Acknowledgements](https://github.com/reginahongcy/loyola-150-timeline-project/wiki/Acknowledgements)
